@@ -47,7 +47,7 @@ a:active {
   justify-content: space-between;
   box-shadow: 0 5px 5px rgba(182, 182, 182, 0.75);
   z-index: 100;
-  background-color: red;
+  background-color: white;
 }
 
 .logo {
